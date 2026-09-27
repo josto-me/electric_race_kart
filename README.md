@@ -1,6 +1,6 @@
 # Electric Race Kart
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23002045-blue.svg)](https://doi.org/10.5281/zenodo.23002045) [![Build](https://github.com/josto-me/electric_race_kart/actions/workflows/build.yml/badge.svg)](https://github.com/josto-me/electric_race_kart/actions/workflows/build.yml) [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-blue.svg)](LICENSE) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE-CC-BY-4.0.txt) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22990337-blue.svg)](https://doi.org/10.5281/zenodo.22990337) [![Build](https://github.com/josto-me/electric_race_kart/actions/workflows/build.yml/badge.svg)](https://github.com/josto-me/electric_race_kart/actions/workflows/build.yml) [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-blue.svg)](LICENSE) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE-CC-BY-4.0.txt) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
 
 Electric kart with traction control (ASR), diploma project at HTL Braunau.
 
