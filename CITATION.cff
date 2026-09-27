@@ -8,8 +8,8 @@ authors:
     orcid: "https://orcid.org/0009-0008-4263-5369"
 repository-code: "https://github.com/josto-me/electric_race_kart"
 url: "https://josto.me"
-doi: "10.5281/zenodo.22990338"
-version: "1.0.0"
+doi: "10.5281/zenodo.23002045"
+version: "1.0.1"
 license:
   - Apache-2.0
   - CC-BY-4.0

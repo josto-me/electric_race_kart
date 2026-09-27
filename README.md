@@ -1,6 +1,6 @@
 # Electric Race Kart
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22990338-blue.svg)](https://doi.org/10.5281/zenodo.22990338) [![Build](https://github.com/josto-me/electric_race_kart/actions/workflows/build.yml/badge.svg)](https://github.com/josto-me/electric_race_kart/actions/workflows/build.yml) [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-blue.svg)](LICENSE) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE-CC-BY-4.0.txt) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23002045-blue.svg)](https://doi.org/10.5281/zenodo.23002045) [![Build](https://github.com/josto-me/electric_race_kart/actions/workflows/build.yml/badge.svg)](https://github.com/josto-me/electric_race_kart/actions/workflows/build.yml) [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-blue.svg)](LICENSE) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE-CC-BY-4.0.txt) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
 
 Electric kart with traction control (ASR), diploma project at HTL Braunau.
 
@@ -56,7 +56,7 @@ Required to build the firmware: Arduino SAM core with SPI (LGPL-2.1-or-later; SP
 You may use, change and share everything, also commercially. When you pass it on or
 publish something based on it, credit it as:
 
-> Johannes Stockhammer, "Electric Race Kart", version 1.0.0, Zenodo, https://doi.org/10.5281/zenodo.22990338
+> Johannes Stockhammer, "Electric Race Kart", version 1.0.1, Zenodo, https://doi.org/10.5281/zenodo.23002045
 
 GitHub shows the same citation under "Cite this repository" (from [`CITATION.cff`](CITATION.cff)).
 
