@@ -1,0 +1,40 @@
+Parts list of the power supply (EAGLE export)
+
+Part    Value     Device           Package        Description                        
+C1      100nF     CAP2.54          CAP2.54        Capacitors without polarity        
+C2      100nF     CAP2.54          CAP2.54        Capacitors without polarity        
+C3      100nF     CAP2.54          CAP2.54        Capacitors without polarity        
+C4      100nF     CAP2.54          CAP2.54        Capacitors without polarity        
+C5      10µF      CPOL2.54,5       CPOL2.54,6     Capacitors with polarity
+C6      10µF      CPOL2.54,5       CPOL2.54,6     Capacitors with polarity
+C7      1nF       CAP2.54          CAP2.54        Capacitors without polarity        
+C8      10nF      CAP2.54          CAP2.54        Capacitors without polarity        
+C10     10µF      CPOL2.54,5       CPOL2.54,6     Capacitors with polarity
+C11     10nF      CAP2.54          CAP2.54        Capacitors without polarity        
+C12     10nF      CAP2.54          CAP2.54        Capacitors without polarity        
+C13     10nF      CAP2.54          CAP2.54        Capacitors without polarity        
+C14     10nF      CAP2.54          CAP2.54        Capacitors without polarity        
+C15     10nF      CAP2.54          CAP2.54        Capacitors without polarity        
+C16     10nF      CAP2.54          CAP2.54        Capacitors without polarity        
+C17     10nF      CAP2.54          CAP2.54        Capacitors without polarity        
+C18     10nF      CAP2.54          CAP2.54        Capacitors without polarity        
+C19     10nF      CAP2.54          CAP2.54        Capacitors without polarity        
+C20     10nF      CAP2.54          CAP2.54        Capacitors without polarity        
+C21     10µF      CPOL2.54,5       CPOL2.54,6     Capacitors with polarity
+C22     10µF      CPOL2.54,5       CPOL2.54,6     Capacitors with polarity
+C23     100nF     CAP2.54          CAP2.54        Capacitors without polarity        
+D1      DIODE7.62 DIODE7.62        DIODE7.62      Diode Symbol EU                    
+IC1     LM7805    PACKAGES-3PIN	   TO220V         Packages with 3 Pins               
+PINHD1            PINHD1X12-2.54   PINHD1X12-2.54 Pin Header 1x12                    
+PINHD2            PINHD1X12-2.54   PINHD1X12-2.54 Pin Header 1x12                    
+PINHD3  3.81mm    PINHD1X2-3.81    PINHD1X2-3.81  Pin Header 1x2                     
+PINHD4            PINHD1X2-3.81    PINHD1X2-3.81  Pin Header 1x2                     
+PINHD5            PINHD1X2-3.81    PINHD1X2-3.81  Pin Header 1x2                     
+PINHD6            PINHD1X2-3.81    PINHD1X2-3.81  Pin Header 1x2                     
+PINHD7            PINHD1X2-3.81    PINHD1X2-3.81  Pin Header 1x2                     
+PINHD8            PINHD1X2-3.81    PINHD1X2-3.81  Pin Header 1x2                     
+PINHD9            PINHD1X2-3.81    PINHD1X2-3.81  Pin Header 1x2                     
+PINHD10           PINHD1X2-3.81    PINHD1X2-3.81  Pin Header 1x2                     
+PINHD11           PINHD1X2-3.81    PINHD1X2-3.81  Pin Header 1x2                     
+PINHD12           PINHD1X2-3.81    PINHD1X2-3.81  Pin Header 1x2                     
+PINHD13           PINHD1X2-3.81    PINHD1X2-3.81  Pin Header 1x2                     

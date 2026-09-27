@@ -1,0 +1,54 @@
+Parts list of the I/O board (EAGLE export)
+
+Part    Value Device        Package       Description                        
+C1      10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+C2      100nF CAP2.54       CAP2.54       Capacitors without polarity        
+C3      1nF   CAP2.54       CAP2.54       Capacitors without polarity        
+C4      10µF  CPOL2.54,5    CPOL2.54,6    Electrolyt Capacitors with polarity
+C5      10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+C6      1nF   CAP2.54       CAP2.54       Capacitors without polarity        
+C7      1nF   CAP2.54       CAP2.54       Capacitors without polarity        
+C8      10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+C9      10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+C10     1nF   CAP2.54       CAP2.54       Capacitors without polarity        
+C11     1nF   CAP2.54       CAP2.54       Capacitors without polarity        
+C12     10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+C13     10µF  CPOL2.54,5    CPOL2.54,6    Electrolyt Capacitors with polarity
+C14     10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+C15     10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+C16     1nF   CAP2.54       CAP2.54       Capacitors without polarity        
+C17     10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+C19     1nF   CAP2.54       CAP2.54       Capacitors without polarity        
+C21     1nF   CAP2.54       CAP2.54       Capacitors without polarity        
+C22     10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+C23     10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+C24     1nF   CAP2.54       CAP2.54       Capacitors without polarity        
+C26     10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+C27     1nF   CAP2.54       CAP2.54       Capacitors without polarity        
+C29     10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+C31     1nF   CAP2.54       CAP2.54       Capacitors without polarity        
+C32     10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+C33     10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+C34     1nF   CAP2.54       CAP2.54       Capacitors without polarity        
+C35     1nF   CAP2.54       CAP2.54       Capacitors without polarity        
+C37     1nF   CAP2.54       CAP2.54       Capacitors without polarity        
+C38     10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+C39     1nF   CAP2.54       CAP2.54       Capacitors without polarity        
+C40     10nF  CAP2.54       CAP2.54       Capacitors without polarity        
+PINHD1        PINHD1X3-3.81 PINHD1X3-3.81 Pin Header 1x3                     
+PINHD2        PINHD1X3-3.81 PINHD1X3-3.81 Pin Header 1x3                     
+PINHD3        PINHD1X3-3.81 PINHD1X3-3.81 Pin Header 1x3                     
+PINHD4        PINHD1X3-3.81 PINHD1X3-3.81 Pin Header 1x3                     
+PINHD5        PINHD1X3-3.81 PINHD1X3-3.81 Pin Header 1x3                     
+PINHD6        PINHD1X3-3.81 PINHD1X3-3.81 Pin Header 1x3                     
+PINHD7        PINHD1X3-3.81 PINHD1X3-3.81 Pin Header 1x3                     
+PINHD8        PINHD1X3-3.81 PINHD1X3-3.81 Pin Header 1x3                     
+PINHD9        PINHD1X3-3.81 PINHD1X3-3.81 Pin Header 1x3                     
+PINHD10       PINHD1X3-3.81 PINHD1X3-3.81 Pin Header 1x3                     
+PINHD11       PINHD1X3-3.81 PINHD1X3-3.81 Pin Header 1x3                     
+PINHD12       PINHD1X3-3.81 PINHD1X3-3.81 Pin Header 1x3                     
+PINHD13       PINHD1X3-3.81 PINHD1X3-3.81 Pin Header 1x3                     
+PINHD14       PINHD1X3-3.81 PINHD1X3-3.81 Pin Header 1x3                     
+R1      600R  RES10         RES10         Resistor Symbol EU                 
+R2      600R  RES10         RES10         Resistor Symbol EU                 
+R3      600R  RES10         RES10         Resistor Symbol EU                 

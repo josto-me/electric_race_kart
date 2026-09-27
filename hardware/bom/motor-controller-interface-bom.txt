@@ -1,0 +1,28 @@
+Parts list of the motor controller interface (EAGLE export)
+
+Part    Value   Device         Package       Description                        
+C1      1nF     CAP2.54        CAP2.54       Capacitors without polarity        
+C2      10nF    CAP2.54        CAP2.54       Capacitors without polarity        
+C3      10µF    CPOL2.54,5     CPOL2.54,6    Capacitors with polarity
+C4      100nF   CAP2.54        CAP2.54       Capacitors without polarity        
+C5      10nF    CAP2.54        CAP2.54       Capacitors without polarity        
+C6      1nF     CAP2.54        CAP2.54       Capacitors without polarity        
+C7      100nF   CAP2.54        CAP2.54       Capacitors without polarity        
+C8      100nF   CAP2.54        CAP2.54       Capacitors without polarity        
+C9      10nF    CAP2.54        CAP2.54       Capacitors without polarity        
+C10     100nF   CAP2.54        CAP2.54       Capacitors without polarity        
+C11     10nF    CAP2.54        CAP2.54       Capacitors without polarity        
+C12     1nF     CAP2.54        CAP2.54       Capacitors without polarity        
+C13     10µF    CPOL2.54,5     CPOL2.54,6    Capacitors with polarity
+C14     1nF     CAP2.54        CAP2.54       Capacitors without polarity        
+C15     10nF    CAP2.54        CAP2.54       Capacitors without polarity        
+C16     100nF   CAP2.54        CAP2.54       Capacitors without polarity        
+IC1     LM7805  TO92 	       TO92          Packages with 3 Pins               
+IC2     ILD74   DIL08          DIL08         Dual In Line Package 8 Pin         
+IC3     OPA2340 DIL08          DIL08         Dual In Line Package 8 Pin         
+PINHD1          PINHD1X3-3.81  PINHD1X3-3.81 Pin Header 1x3                     
+PINHD2          PINHD1X3-3.81  PINHD1X3-3.81 Pin Header 1x3                     
+R1      5k      RES10          RES10         Resistor Symbol EU                 
+R2      100R    RES10          RES10         Resistor Symbol EU                 
+R3      200R    RES10          RES10         Resistor Symbol EU                 
+R4      10K     RES10          RES10         Resistor Symbol EU                 

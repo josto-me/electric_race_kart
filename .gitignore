@@ -1,0 +1,15 @@
+Debug/
+Release/
+__vm/
+Visual Micro/
+*.atsuo
+*.b#*
+*.s#*
+*.bak
+Thumbs.db
+~$*
+
+# EAGLE source files
+*.sch
+*.brd
+*.lbr
